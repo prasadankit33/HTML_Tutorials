@@ -1,0 +1,21 @@
+			HTML
+			 ||
+			 ||
+			 \/
+			Body
+		       //||\\
+		      // || \\
+	             //  ||  \\	
+	            //   \/   \\
+                   // Paragraph\\
+	          //    (p2)    \\
+	         //              \\
+	Paragraph(p1)		Paragraph(p3)
+				   \\
+                                    \\
+                                     \\
+                                    Anchor link,images etc 
+                                       DOM elements
+
+ol-->ordered list
+li-->list index
